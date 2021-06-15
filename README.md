@@ -1,33 +1,27 @@
-<img src="https://mvarandas.com.br/static/default/images/menew-bymv.png" width="200">
-
-## **TESTE PARA DESENVOLVEDOR (1)**
 
 
-**Informações Iniciais:**
+## ✨ Tecnologias
 
-1. Para submeter o seu projeto, **faça um fork** deste repositório e realize um **pull request** para enviar o seu código;
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-2. O backend deve ser desenvolvido com PHP e o Banco de Dados preferencialmente MySQL;
+- BOOTSTRAP
+- PHP
+- MYSQL
 
-3. O dump do Banco de Dados deve fazer parte dos arquivos versionados.
+## 💻 Projeto
 
-**Questão:**
+Consiste em um crud(Create, Read, Update e Delete) usando PHP PURO com bootstrap.
 
-Elaborar uma aplicação de agenda para listar, cadastrar e editar informações.
+## PrintScreen
 
-a) Os campos do formulário são os seguintes:
+![1](https://user-images.githubusercontent.com/38896311/122054059-b854a480-cdbd-11eb-9cf9-cbf754a5472a.png)
 
- - nome (input text)
- - telefone (input text)
- - email (input text)
- - cidade (input text)
- - estado (select box com os 5 Estados de sua preferência)
- - categoria (select box com os itens Cliente, Fornecedor e Funcionário)
 
-b) A interface deve ter uma busca de registros e respeitar os seguintes requisitos:
+## 🚀 Como executar
 
- - o código precisa ser bem formatado;
- - precisa respeitar padrões de responsividade;
- - deve ser desenvolvida com o uso de Bootstrap 4;
+- Clone o repositório
+- Atualizar informações do banco em db.php
 
-...Boa Sorte!
+
+
+
